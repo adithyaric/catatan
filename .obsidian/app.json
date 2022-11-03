@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "attachmentFolderPath": "img",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "communityPluginSortOrder": "download",
+  "promptDelete": false
+}

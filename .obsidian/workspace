@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "0bbc2c0fe78efb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98d89a8374a401e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Jobs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cca8f643f837211c",
+    "type": "split",
+    "children": [
+      {
+        "id": "670f0a8b064249ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ff2ea76698ebc19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7912e4d8c036575",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ccc704eabba4bb76",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 194.5
+  },
+  "right": {
+    "id": "0440aed467157a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc392674752ebb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d7031c84d351386",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jobs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a52ef08e795ba6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jobs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "253d57a91cc99cad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "591e8ad072641122",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jobs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a98d89a8374a401e",
+  "lastOpenFiles": [
+    "Career Amikom.md",
+    "📝 TODO- Nidi_SLO.md",
+    "📝 TODO - Sid_surat.md",
+    "Jobs.md",
+    "📝 TODO - Nidi - SLO.md",
+    "202209061236.md",
+    "TODO - PublikasiMedia.md",
+    "- ToDoLists.md",
+    "Laravel.md",
+    "Flutter.md"
+  ]
+}
