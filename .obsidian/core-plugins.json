@@ -2,6 +2,7 @@
   "file-explorer",
   "global-search",
   "switcher",
+  "backlink",
   "outgoing-link",
   "tag-pane",
   "page-preview",
@@ -12,6 +13,7 @@
   "starred",
   "zk-prefixer",
   "outline",
+  "slides",
   "workspaces",
   "file-recovery",
   "sync"

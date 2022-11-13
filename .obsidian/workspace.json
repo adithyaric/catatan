@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "27a243c1d77dc5f2",
+        "id": "0469bce5075dc7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "d480988d59c1f726",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 TODO - PublikasiMedia.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b7152dbb41112fa3",
+            "id": "b29dfd0980ef6dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "💾 Snippets.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af37fbfe29b60d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 TODO - Sid_surat.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f345015d07b229",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💾 Snippets.md",
-                "mode": "source",
-                "backlinks": false,
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 TODO - Sid_surat.md",
+                "file": "💾 Snippets.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,28 +109,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 TODO - Sid_surat.md"
+                "file": "💾 Snippets.md"
+              }
+            }
+          },
+          {
+            "id": "c2c1acde71e54d84",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f9950a19add6961",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "💾 Snippets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 292.5
   },
-  "active": "af37fbfe29b60d92",
+  "active": "c2c1acde71e54d84",
   "lastOpenFiles": [
-    "📝 TODO - Nidi_SLO.md",
+    "img 📷/Pasted image 20220426101733.png",
+    "img 📷/Pasted image 20220422133917.png",
     "📝 TODO - Klinik.md",
-    "💾 Command Line.md",
+    "laravel-roadmap/readme.md",
     "💾 Snippets.md",
+    "💾 Command Line.md",
     "📝 TODO - PublikasiMedia.md",
+    "laravel-tips/api.md",
     "📝 TODO - Sid_surat.md",
-    "Career/Career Amikom.md",
-    "Career/Job Interviews.md",
-    "202210150511.md",
-    "202210142348.md"
+    "📝 TODO - Nidi_SLO.md"
   ]
 }

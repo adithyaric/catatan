@@ -17,7 +17,8 @@
 -   [x] Login Menggunakan Jetstream
 -   [x] Register dan Login Default
 -   [x] Role : super admin, admin, operator/support, freelance (marketing)
--   [ ] Verifikasi Email dan No Whatsapp
+- [x] Verifikasi Email
+- [x] No HP
 
 > Customer -> Personal : order biasa. Supportnya terbatas. Berlanganan : dapet diskon lebih banyak.
 ---
@@ -34,7 +35,7 @@
 - [ ] Halaman Dashboard
 - [x] Halaman Campaign/Orders
 - [ ] Halaman Checkout
-- [ ] Halaman History
+- [x] Halaman History
 	- [ ] Filter tanggal
 	***Status :***
 		- validasi konten
@@ -63,7 +64,7 @@
 2.  listing harga & detail
 
 Jadi di internal itu ada kerumitan soal laporan pekerjaan, kadang ketumpuk tumpuk di WA. ⇒ **Laporan**
--   [ ] **Request Media** : Proses pengajuan media (select search). Jika tidak ada masuk ke waiting list 
+-   [x] **Request Media** : Proses pengajuan media (select search). Jika tidak ada masuk ke waiting list 
 -   [ ] Halaman Create Custom Invoice
 -   [x] Isi nama Campign
 
@@ -80,3 +81,42 @@ Jadi di internal itu ada kerumitan soal laporan pekerjaan, kadang ketumpuk tumpu
 - [ ] media alternatif hanya press-release [Layanan lain sudah pasti terbit]
 ---
 #####    Fitur Afiliasi
+
+---
+```json
+  [
+  "status_code" => 201
+	  "data" => array:5 [
+	    "id" => "547074048"
+	    "number" => "num17"
+	    "payper_url" => "get.sandbox.paper.id/Bdx8K2F"
+	    "pdf_url" => "get.sandbox.paper.id/mkF8hHV"
+	    "status_send" => []
+	  ]
+  ]
+```
+
+```json
+[
+  "id" => "547074048"
+  "number" => "num17"
+  "payper_url" => "get.sandbox.paper.id/Bdx8K2F"
+  "pdf_url" => "get.sandbox.paper.id/mkF8hHV"
+  "status_send" => []
+]
+```
+
+```json
+{
+  "status_code": 201
+  "message": "Request Success"
+  "data": {
+    "payper_url": "get.sandbox.paper.id/gmdH6Tz"
+    "ref_id": "00000001"
+    "transaction_id": "48413bfd-273c-4171-935b-1becbd6d084b"
+    "transaction_status": "PENDING"
+  }
+}
+```
+
+Pembayaran Manual : Invoice Basah

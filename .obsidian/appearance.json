@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Atom",
   "accentColor": "",
-  "interfaceFontFamily": "CaskaydiaCove Nerd Font"
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "baseFontSize": 13
 }
