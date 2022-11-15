@@ -34,39 +34,29 @@
 - [x] Halaman Varaint Layanan Product
 - [ ] Halaman Dashboard
 - [x] Halaman Campaign/Orders
-- [ ] Halaman Checkout
 - [x] Halaman History
-	- [ ] Filter tanggal
-	***Status :***
-		- validasi konten
-		- proses penerbitan
-		- terbit
-
+- [ ] saat Link hasil sudah ada :
+	- [ ] Ada revisi
+	- [ ] isi keterangan revisi
 ---
 #####    Embbed Spreadsheet
 -   [x] Tambah DataTable (Search)
-***Buat Import Excel/CSV***
+##### Buat Import Excel/CSV
 -   [x] Media
 -   [x] Service
-	-  [ ] Attribute
-	-  [ ] Variants
 -   [ ] Buat Export Cart ⇒ Excel/CSV
 ---
 #####    Campaign/Orders
--   [x] Campign/Order bisa berbeda-beda, login langsung bisa buat camping dinamai.
--   [x] satu keterangan yang sama/detail bisa memiliki banyak media di satu layanan
-
-`semrush brief = campign`
-
-###### **Masalah internal ini seperti :**
-
-1.  kebutuhan laporan orderan
-2.  listing harga & detail
-
-Jadi di internal itu ada kerumitan soal laporan pekerjaan, kadang ketumpuk tumpuk di WA. ⇒ **Laporan**
--   [x] **Request Media** : Proses pengajuan media (select search). Jika tidak ada masuk ke waiting list 
--   [ ] Halaman Create Custom Invoice
--   [x] Isi nama Campign
+-  [x] Campign/Order bisa berbeda-beda, login langsung bisa buat camping dinamai.
+-  [x] satu keterangan yang sama/detail bisa memiliki banyak media di satu layanan
+-  [ ] pilihan 200k (press) atau 500k (adv), free (back)
+-  [x] **Request Media** : Pencarian Tidak ditemukan => request!
+-  [ ] Halaman Admin : Create Custom Invoice
+-  [x] isi centang dengan Syarat dan ketentuan/chat CS untuk tanya
+-  [x] Isi nama Campign
+-  [ ] Laporan Orderan
+	- 1. Checklist Membutuhkan Penambahan PPH (Pajak)
+	- 2. Checklist Minta tanda tangan Basah di materai 10k
 
 ---
 
@@ -76,11 +66,30 @@ Jadi di internal itu ada kerumitan soal laporan pekerjaan, kadang ketumpuk tumpu
 -   [x] Buat halaman depan
 -   [x] tambah search di list media
 -   [ ] Follow up (lewat email oleh admin/operator) jika user buat pesanan
--   [ ] Teknik up selling
+-   [ ] Teknik up selling ???
 -   [x] Bisa pilih media dulu baru pilih kategori
-- [ ] media alternatif hanya press-release [Layanan lain sudah pasti terbit]
+- [ ] media alternatif hanya press-release [`Layanan lain sudah pasti terbit`]
+
+- [x] Pembayaran Payment Gateway : Invoice Paper ID.
+- [x] Pembayaran Manual : Invoice Basah.
+
 ---
+Notifikasi Email dan Wa 
+- [ ] Verifikasi email
+- [ ] Orderan/Invoice yang sudah dibuat
+- [ ] Orderan yang masih di keranjang belum dibayar lebih dari 3 hari
+- [ ] Notifikasi Link Hasil manual oleh admin [`admin buat tombol buat notif ke user`]
+- [ ] Notifikasi Orderan Selesai Terimakasih (template) berisi pesan dan feedback 
+
 #####    Fitur Afiliasi
+
+Komisi didapat dari :
+- [ ] Mengajak orang
+- [ ] Banyak transaksi
+
+> example:
+> ![[Pasted image 20221114212122.png]]
+
 
 ---
 ```json
@@ -118,5 +127,3 @@ Jadi di internal itu ada kerumitan soal laporan pekerjaan, kadang ketumpuk tumpu
   }
 }
 ```
-
-Pembayaran Manual : Invoice Basah

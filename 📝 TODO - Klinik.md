@@ -1,5 +1,3 @@
----
-
 - [x] Stok Obat dan Reagen pada Inventory
 - [x] Pengurangan Obat//Reagen saat Membuat tindakan Poli [ada kuantitas obat//reagen]
 - [x] Data Perawat adalah Users yang punya level sebagai perawat ~~Email, Password
@@ -14,11 +12,12 @@
 #### Laporan Excel
 
 - [x] Pemasukan
-  - [x] Export : totalObat = harga jual - harga beli
+- [x] Export : totalObat = harga jual - harga beli
 - [x] Pengeluaran [group by category???]
 - [ ] Perhitungan Fee dokter dan perawat
 - [x] Stok
 - [x] History Pasien
+
 
 ---
 

@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0469bce5075dc7ad",
+        "id": "d7889ac26d0c6522",
         "type": "tabs",
         "children": [
           {
-            "id": "b29dfd0980ef6dcf",
+            "id": "cdc784f6c1a19b42",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "💾 Snippets.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7eec325aaa1916cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 TODO - PublikasiMedia.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "0440aed467157a22",
@@ -86,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💾 Snippets.md",
+                "file": "📝 TODO - PublikasiMedia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💾 Snippets.md"
+                "file": "📝 TODO - PublikasiMedia.md"
               }
             }
           },
@@ -120,42 +138,26 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "6f9950a19add6961",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "💾 Snippets.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "c2c1acde71e54d84",
+  "active": "7eec325aaa1916cc",
   "lastOpenFiles": [
-    "img 📷/Pasted image 20220426101733.png",
-    "img 📷/Pasted image 20220422133917.png",
-    "📝 TODO - Klinik.md",
-    "laravel-roadmap/readme.md",
+    "clean-code-php/README.md",
     "💾 Snippets.md",
-    "💾 Command Line.md",
-    "📝 TODO - PublikasiMedia.md",
-    "laravel-tips/api.md",
-    "📝 TODO - Sid_surat.md",
-    "📝 TODO - Nidi_SLO.md"
+    "laravel-best-practices/README.md",
+    "laravel-best-practices/indonesia.md",
+    "laravel-best-practices/arabic.md",
+    "laravel-cheat-sheet/docs/0051-auth-component.md",
+    "laravel-cheat-sheet/README.md",
+    "laravel-cheat-sheet/docs/0002-routes-views.md",
+    "laravel-cheat-sheet/resources/img/0005-create-database.screenflow/thumbnail.jpg",
+    "laravel-cheat-sheet/docs/0039-one-to-many.md"
   ]
 }
