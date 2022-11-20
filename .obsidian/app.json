@@ -2,9 +2,14 @@
   "legacyEditor": false,
   "livePreview": true,
   "showFrontmatter": true,
-  "attachmentFolderPath": "img",
+  "attachmentFolderPath": "img 📷",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "communityPluginSortOrder": "download",
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "showIndentGuide": true,
+  "tabSize": 2
 }

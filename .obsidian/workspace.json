@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "💾 Snippets.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -25,18 +25,33 @@
           {
             "id": "7eec325aaa1916cc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📝 TODO - PublikasiMedia.md",
-                "mode": "preview",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ee032bbd18336b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📝 TODO - Kalbu.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 TODO - PublikasiMedia.md",
+                "file": "📝 TODO - Kalbu.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 TODO - PublikasiMedia.md"
+                "file": "📝 TODO - Kalbu.md"
               }
             }
           },
@@ -147,17 +162,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "7eec325aaa1916cc",
+  "active": "ee032bbd18336b63",
   "lastOpenFiles": [
-    "clean-code-php/README.md",
+    "📝 TODO - PublikasiMedia.md",
+    "📝 TODO - Kalbu.md",
     "💾 Snippets.md",
-    "laravel-best-practices/README.md",
-    "laravel-best-practices/indonesia.md",
-    "laravel-best-practices/arabic.md",
-    "laravel-cheat-sheet/docs/0051-auth-component.md",
-    "laravel-cheat-sheet/README.md",
-    "laravel-cheat-sheet/docs/0002-routes-views.md",
-    "laravel-cheat-sheet/resources/img/0005-create-database.screenflow/thumbnail.jpg",
-    "laravel-cheat-sheet/docs/0039-one-to-many.md"
+    "clean-code-php/README.md",
+    "clean-code-javascript/README.md",
+    "img 📷/Pasted image 20221114212122.png",
+    "img 📷/Pasted image 20220422133917.png",
+    "career/Job Interviews.md",
+    "career/Career Amikom.md",
+    "📝 TODO - Klinik.md"
   ]
 }

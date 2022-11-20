@@ -60,3 +60,25 @@ Event::listen('auth.login', function() {
     Session::set('variableName', $value);
 });
 ```
+
+#query-addselect
+
+```php
+$orders = Order::where('status', 'paid')
+	->whereRelation('user', 'referrer_id', auth()->user()->id)
+	->addSelect([
+		'total_price' => OrderItem::whereColumn('order_id', 'orders.id')
+		->selectRaw('sum((price * quantity) * 0.1) as total_price')
+	])->pluck('total_price')->toArray(); 
+
+$paidOrders = \array_sum($orders);
+```
+
+```json
+array:1 [
+  0 => "300887.1"
+]
+
+$paidOrders = 300887.1
+```
+
