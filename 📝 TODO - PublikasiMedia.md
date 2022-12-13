@@ -1,3 +1,4 @@
+
 [PublikasiMedia.drawio](https://drive.google.com/file/d/1FuCPvAq59yFTIZDRcNjETxXQARLbHPCt/view?usp=sharing)
 
 [USHER AND ADMIN NEEDED](https://docs.google.com/document/d/1mVW-fzhiUWES0JfVvZiIaQ_7mZopQqdpa4e9bHVSET0/edit)
@@ -28,12 +29,16 @@
 - [x] Halaman Roles
 - [x] Halaman Media
 - [x] Halaman Kategori Layanan
-- [ ] Halaman Layanan Product (Services)
-	- [ ] Sistem Bundle/Paket
-	- [ ] Edit Detail Product (Services)
+- [x] Halaman Layanan Product (Services)
+	- [x] Sistem Bundle/Paket
+	- [x] Edit Detail Product (Services)
 - [x] Halaman Attribute Layanan Product
 - [x] Halaman Varaint Layanan Product
-- [ ] Halaman Dashboard
+- Halaman Dashboard
+	- [x] 1. Pesanan yang sedang diproses
+	- [x] 2. Total belanja
+	- [x] 3. Komisi Affiliasi
+	- [x] 4. Pesanan yang dibatalkan
 - [x] Halaman Campaign/Orders
 - [x] Halaman History
 - [x] saat Link hasil sudah ada :
@@ -42,20 +47,22 @@
 ---
 #####    Embbed Spreadsheet
 -   [x] Tambah DataTable (Search)
-###### Buat Import Excel/CSV
+> Buat Import Excel/CSV
 -   [x] Media
 -   [x] Service
--   [ ] Buat Export Cart ⇒ Excel/CSV
+-   [x] Buat Export Cart ⇒ Excel/CSV ==sudah ada di paper id==
 ---
 #####    Campaign/Orders
 -  [x] Campign/Order bisa berbeda-beda, login langsung bisa buat camping dinamai.
 -  [x] satu keterangan yang sama/detail bisa memiliki banyak media di satu layanan
--  [ ] pilihan 200k (press) atau 500k (adv), free (back) ==fixed?==
+-  [x] pilihan 200k (press) atau 500k (adv), free (back) ==fixed?==
 -  [x] **Request Media** : Pencarian Tidak ditemukan => request!
 -  [ ] Halaman Admin : Create Custom Invoice
+![[Pasted image 20221120225001.png]]
+
 -  [x] isi centang dengan Syarat dan ketentuan/chat CS untuk tanya
 -  [x] Isi nama Campign
--  [ ] Laporan Orderan
+-  [ ] ==Laporan Orderan==
 -  [x] 1. Checklist Membutuhkan Penambahan PPH (Pajak)
 -  [x] 2. Checklist Minta tanda tangan Basah di materai 10k
 
@@ -66,19 +73,20 @@
 -   [x] Order id => keranjang shopping.
 -   [x] Buat halaman depan
 -   [x] tambah search di list media
--   [ ] Teknik up selling ???
+-   [ ] Teknik up selling
 -   [x] Bisa pilih media dulu baru pilih kategori
-- [ ] media alternatif hanya press-release [`Layanan lain sudah pasti terbit`]
+-   [ ] media alternatif hanya press-release
 
 - [x] Pembayaran Payment Gateway : Invoice Paper ID.
 - [x] Pembayaran Manual : Invoice Basah.
 
 ---
-Notifikasi Email dan Wa 
+#####    Notifikasi Email dan Wa 
 - [x] Verifikasi email
 - [ ] Orderan/Invoice yang sudah dibuat
 - [ ] Orderan yang masih di keranjang belum dibayar lebih dari 3 hari
-- [ ] Notifikasi Link Hasil manual oleh admin [`admin buat tombol buat notif ke user`]
+- [ ] Notifikasi Link Hasil manual oleh admin 
+- [`admin buat tombol buat notif ke user`]
 - [ ] Notifikasi Orderan Selesai Terimakasih (template) berisi pesan dan feedback 
 
 #####    Fitur Afiliasi
@@ -87,44 +95,10 @@ Komisi didapat dari :
 - [x] Banyak transaksi
 - [x] Perhitungan Bonus
 
-> example:
-> ![[Pasted image 20221114212122.png]]
-
-
----
-
-```json
-  [
-  "status_code" => 201
-	  "data" => array:5 [
-	    "id" => "547074048"
-	    "number" => "num17"
-	    "payper_url" => "get.sandbox.paper.id/Bdx8K2F"
-	    "pdf_url" => "get.sandbox.paper.id/mkF8hHV"
-	    "status_send" => []
-	  ]
-  ]
-```
-
-```json
-[
-  "id" => "547074048"
-  "number" => "num17"
-  "payper_url" => "get.sandbox.paper.id/Bdx8K2F"
-  "pdf_url" => "get.sandbox.paper.id/mkF8hHV"
-  "status_send" => []
-]
-```
-
-```json
-{
-  "status_code": 201
-  "message": "Request Success"
-  "data": {
-    "payper_url": "get.sandbox.paper.id/gmdH6Tz"
-    "ref_id": "00000001"
-    "transaction_id": "48413bfd-273c-4171-935b-1becbd6d084b"
-    "transaction_status": "PENDING"
-  }
-}
-```
+>![[Pasted image 20221212014638.png]]
+>![[Pasted image 20221212014437.png]]
+>![[Pasted image 20221212014539.png]]
+- [ ] Fitur chat langsung
+- [x] Notification Banyak Cart
+- [x] Halaman List Media di hidden dulu
+- *Paket Bundle press release disamakan seperti* :![[Pasted image 20221125090933.png]]

@@ -6,10 +6,18 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
   "communityPluginSortOrder": "download",
-  "promptDelete": false,
+  "promptDelete": true,
   "strictLineBreaks": true,
   "showLineNumber": false,
   "rightToLeft": false,
   "showIndentGuide": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "trashOption": "none"
 }

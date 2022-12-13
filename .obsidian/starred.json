@@ -2,13 +2,18 @@
   "items": [
     {
       "type": "file",
-      "title": "📝 TODO- PublikasiMedia",
+      "title": "💾 Snippets",
+      "path": "💾 Snippets.md"
+    },
+    {
+      "type": "file",
+      "title": "📝 TODO - PublikasiMedia",
       "path": "📝 TODO - PublikasiMedia.md"
     },
     {
       "type": "file",
-      "title": "💾 Snippets",
-      "path": "💾 Snippets.md"
+      "title": "Kanban",
+      "path": "Kanban.md"
     }
   ]
 }

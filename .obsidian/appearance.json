@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Wasp",
+  "cssTheme": "Atom",
   "accentColor": "",
   "interfaceFontFamily": "FiraMono Nerd Font,CaskaydiaCove Nerd Font",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "theme": "obsidian"
 }
