@@ -14,7 +14,7 @@
 - [x] Pemasukan
 - [x] Export : totalObat = harga jual - harga beli
 - [x] Pengeluaran [group by category???]
-- [ ] Perhitungan Fee dokter dan perawat
+- [x] Perhitungan Fee dokter dan perawat
 - [x] Stok
 - [x] History Pasien
 
@@ -92,21 +92,27 @@ Update pengecekan Aplikasi Klinik :
 
 1. Dashboard
    - [x] Total pasien Dalam Tindakan -> Total Tagihan Sudah Dibayar
-   - Total Pemasukan ??
-   - Total Tagihan ??
-   - Total Pasien Rawat Jalan ++
-   - Total Pasiem Rujuk ++
+   - [x] Total Pemasukan
+   - [x] Total Tagihan sudah dan belum dibayar
+      - [x] Data Tagihan rawat inap : hari belum berjalan baik
+   - [x] Total Pasien Rawat Jalan ++
+   - [x] Total Pasiem Rujuk ++
 2. %%Master Data Perawat (Masukkan Password)%%
 3. %%List Pasien dalam tindakan harus hilang setelah lunas (Rawat Inap)%%
 4. %%Disable Tindakan setelah lunas%%
-5. `Data Request Obat dari poli pada Apotek`
-6. Penjualan Obat (Select Obat & Quantity)
+5. - [x] `Data Request Obat dari poli pada Apotek`
+6. - [x] Penjualan Obat (Select Obat & Quantity)
 7. %%Perhitungan Pada Nota%%
-8. Perhitungan Pada Laporan Pemasukan dan Pengeluaran
+8. - [x] Perhitungan Pada Laporan Pemasukan dan Pengeluaran
+	%%1. Biaya pendaftaran full + 
+	2. (Hasil penjualan obat - Harga beli x qty) + 
+	3. (Hasil penjualan reagen - Harga beli x qty) + 
+	4. total tindakan (total pendapatan klinik punya dokter + total pendapatan klinik punya perawat).
+	5. Pengeluaran : ditambah total fee dokter dan total fee perawat%%
 9. %%Laporan Stock obat dan Reagen%%
-10. Laporan History Pasien
-    - Untuk rawat Inap Ambil 1
-    - Perhitungan Rawat inap, jalan, rujuk
+10. %%Laporan History Pasien%%
+    - [x] Untuk rawat Inap Ambil 1
+    - [x] Perhitungan Rawat inap, jalan, rujuk
 11. %%Remove add button di stock obat dan reagen%%
 
 ---
@@ -115,8 +121,7 @@ Update pengecekan Aplikasi Klinik :
 
 ---
 
-Admin
-
+%%Admin%%
 - %%Dashboard (Tetap)%%
 - %%Kategori (Tetap)%%
 - %%Master Data (Tetap)%%
@@ -127,7 +132,7 @@ Admin
       Pendaftaran
 - [x] Dashboard (Total Pasien Rujuk, Rawat Jalan, dan Rawat Inap)
 - %%Master Data tetap%%
-  Perawat
+%%Perawat%%
 - [x] Dashboard (Total Pasien Rujuk, Rawat Jalan, dan Rawat Inap)
 - %%Master Data (tetap)%%
 - [x] Tindakan Poli (Jadikan Menu jangan Submenu)
@@ -144,3 +149,17 @@ Admin
 - [x] Dashboard (Total Tagihan dan Total Tagihan Belum Dibayar)
 - [x] Kasir (menu yang tadinya bernama Laporan)
       %%Note : Menu Export atau Cetak laporan hanya ada di Admin Saja.%%
+
+revisi :
+[KLINIK ANUGERAH SEHAT (decaasoftwares.com)](https://klinik.decaasoftwares.com/)
+
+admin
+- [x] merubah halaman awal (dikasih template)
+- [x] halaman login
+- [x] letak cetak laporan di bawah sendiri
+- [x] seacrh pada navbar di hilangkan
+- [x] logo dan nama diganti
+
+perawat
+- [x] tambah tindakan, semua dropdown dikasih select2
+- [x] form repeater obat dan reagen di tindakan poli

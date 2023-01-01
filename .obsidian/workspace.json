@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18ede1ad3714a91f",
+        "id": "9f884b8b7e7a2db2",
         "type": "tabs",
         "children": [
           {
-            "id": "fa3811680c457789",
+            "id": "dfa305522952f2ab",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📝 TODO - PublikasiMedia.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -72,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "0440aed467157a22",
@@ -123,7 +122,7 @@
               "type": "backlink",
               "state": {
                 "file": "📝 TODO - PublikasiMedia.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -156,17 +155,30 @@
     "width": 292.5,
     "collapsed": true
   },
-  "active": "fa3811680c457789",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "dfa305522952f2ab",
   "lastOpenFiles": [
-    "📝 TODO - Kalbu.md",
+    "✅ TODO - Klinik.md",
     "📝 TODO - PublikasiMedia.md",
+    "✅ TODO - Kalbu.md",
+    "Dashboard.md",
+    "✅ TODO - Nidi_SLO.md",
+    "✅ TODO - Sid_surat.md",
     "img 📷/Pasted image 20221212014539.png",
     "img 📷/Pasted image 20221120225001.png",
     "img 📷/Pasted image 20221114212122.png",
-    "img 📷/Pasted image 20220422133917.png",
-    "kal.md",
-    "clean-code-php/README.md",
-    "📝 TODO - Klinik.md",
-    "laravel-tips/auth.md"
+    "img 📷/Pasted image 20220422133917.png"
   ]
 }

@@ -141,8 +141,24 @@ Update File
 3. %%Views/halaman_pengguna/core/footer.php%%
 4. %%Views/halaman_pengguna/topup_detail.php%%
 
-6. %%Controllers/Report.php%%
-7. %%Models/Ks_stbl_keberangkatan.php%%
-8. %%Models/Ks_stbl_kedatangan.php%%
-9. %%Views/report/_printform.php%%
-10. %%Views/core/footer.php%%
+1. %%Controllers/Report.php%%
+2. %%Models/Ks_stbl_keberangkatan.php%%
+3. %%Models/Ks_stbl_kedatangan.php%%
+4. %%Views/report/_printform.php%%
+5. %%Views/core/footer.php%%
+
+
+
+Pagination :
+
+%%Laporan Pembayaran : Wo kapal & wo - non Kapal%%
+%%Laporan Rekap stbl Kedatangan%%
+%%Laporan Rekap Data Perbekalan Kapal%%
+%%Laporan Rekap SPB%%
+%%Laporan Pendapatan%%
+%%Laporan Penggunaan Top Up%%
+%%Laporan Hutang%%
+%%Laporan Setor Top Up%%
+%%Laporan Produksi%%
+%%Laporan Muatan Logistik%%
+%%Laporan Bongkar Muat%%
