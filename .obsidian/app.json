@@ -4,11 +4,11 @@
   "showFrontmatter": true,
   "attachmentFolderPath": "img 📷",
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "communityPluginSortOrder": "download",
   "promptDelete": true,
   "strictLineBreaks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "rightToLeft": false,
   "showIndentGuide": true,
   "tabSize": 2,
@@ -19,5 +19,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "trashOption": "none"
+  "trashOption": "none",
+  "showUnsupportedFiles": true
 }

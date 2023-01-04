@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9f884b8b7e7a2db2",
+        "id": "db788108b1f7ce11",
         "type": "tabs",
         "children": [
           {
-            "id": "dfa305522952f2ab",
+            "id": "7c5b9109addf48c4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Dashboard.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f4b6880bc46c7094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📝 TODO - PublikasiMedia.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "0440aed467157a22",
@@ -133,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "cf1f8ac52cd2cf1a",
@@ -168,17 +180,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dfa305522952f2ab",
+  "active": "f4b6880bc46c7094",
   "lastOpenFiles": [
-    "✅ TODO - Klinik.md",
-    "📝 TODO - PublikasiMedia.md",
-    "✅ TODO - Kalbu.md",
     "Dashboard.md",
+    "📝 TODO - PublikasiMedia.md",
+    "💾 Snippets.md",
+    "✅ TODO - Klinik.md",
+    "✅ TODO - Kalbu.md",
     "✅ TODO - Nidi_SLO.md",
     "✅ TODO - Sid_surat.md",
     "img 📷/Pasted image 20221212014539.png",
     "img 📷/Pasted image 20221120225001.png",
-    "img 📷/Pasted image 20221114212122.png",
-    "img 📷/Pasted image 20220422133917.png"
+    "img 📷/Pasted image 20221114212122.png"
   ]
 }

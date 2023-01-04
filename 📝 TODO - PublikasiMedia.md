@@ -24,9 +24,9 @@
 - %%[x] Verifikasi Email%%
 - %%[x] No HP%%
   > Customer
-  >
   > - Personal : order biasa. Supportnya terbatas.
   > - Berlanganan : dapet diskon lebih banyak.
+- User memasukkan tanggal lahir, (notifikasi ultah)
 
 ---
 
@@ -86,7 +86,7 @@
 <!-- - [x] Order id => keranjang shopping. -->
 <!-- - [x] Buat halaman depan -->
 <!-- - [x] tambah search di list media -->
-- [ ] Teknik up selling
+- [x] Teknik up selling
 <!-- - [x] Bisa pilih media dulu baru pilih kategori -->
 <!-- - [x] media alternatif hanya press-release -->
 <!-- - [x] Pembayaran Payment Gateway : Invoice Paper ID. -->
@@ -129,39 +129,35 @@ Komisi didapat dari :
 ##### Sistem Refund
 
 - [ ] refund status = ditolak sama media, aka kolom pesan.
-- no rekening
-- nominal refund
-- tujuan kemana
-- tanggal refund
-- rek bank
+- [ ] no rekening
+- [ ] nominal refund
+- [ ] tujuan kemana
+- [ ] tanggal refund
+- [ ] rek bank
 
 ---
 
 #### Revision v.1
 
-Perubahan nama menu
+<!-- Perubahan nama menu -->
 
-- [x] Category = layanan
-  - [x] kategori layanan
-  - [x] Attribut = detail layanan
-- [x] Media = domain
-- [x] Refferal = affiliate
-  - [x] user affiliator (paling banyak komisi'nya)
-  - [x] list withdraw
-- [x] (admin) list orders = pesanan dibawah dashboard
-- [x] Perlu konten itu di halaman cart saja
-- [ ] Perbaikan Rumus =
-
-  - [ ] ==buatkan konten== (harga x jml konten) + total pesanan.
-  - [ ] Saldo Refferals
-
-- [x] di detail History user ada aksi terima.
-- [x] aksi menambah id media untuk tim-nya mba nida
+<!-- - [x] Category = layanan -->
+  <!-- - [x] kategori layanan -->
+  <!-- - [x] Attribut = detail layanan -->
+<!-- - [x] Media = domain -->
+<!-- - [x] Refferal = affiliate -->
+  <!-- - [x] user affiliator (paling banyak komisi'nya) -->
+  <!-- - [x] list withdraw -->
+<!-- - [x] (admin) list orders = pesanan dibawah dashboard -->
+<!-- - [x] Perlu konten itu di halaman cart saja -->
+- [ ] Perbaikan Rumus ===buatkan konten== (harga x jml konten) + total pesanan.
+<!-- - [x] di detail History user ada aksi terima. -->
+<!-- - [x] aksi menambah id media untuk tim-nya mba nida -->
       ![[Pasted image 20221229131014.png]]
-- [x] tanggal pembuatan invoice
-- [ ] user bisa download invoice excel `status harus selesai semua`
-- [x] di edit admin status approve media & approbe editor jadi satu.
-- [x] ada pop up untuk menampilkan bukti transfer (pembayaran manual)
-- [x] keterangan hyperlink pada cart bisa di edit
+<!-- - [x] tanggal pembuatan invoice -->
+<!-- - [x] user bisa download invoice excel `status harus selesai semua` -->
+<!-- - [x] di edit admin status approve media & approbe editor jadi satu. -->
+<!-- - [x] ada pop up untuk menampilkan bukti transfer (pembayaran manual) -->
+<!-- - [x] keterangan hyperlink pada cart bisa di edit -->
 
 ![[Pasted image 20221229131053.png]]

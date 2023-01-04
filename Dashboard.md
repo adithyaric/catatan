@@ -15,11 +15,11 @@ kanban-plugin: basic
 
 ## Review
 
-- [ ] [[✅ TODO - Kalbu]]
 
 
 ## Done
 
+- [ ] [[✅ TODO - Kalbu]]
 - [ ] [[✅ TODO - Klinik]]
 - [ ] [[✅ TODO - Nidi_SLO]]
 - [ ] [[✅ TODO - Sid_surat]]
