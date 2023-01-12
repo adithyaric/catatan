@@ -163,3 +163,11 @@ admin
 perawat
 - [x] tambah tindakan, semua dropdown dikasih select2
 - [x] form repeater obat dan reagen di tindakan poli
+
+- [x] data kamar
+- [x] tindakan dokter
+- [x] tindakan perawat
+- [x] obat
+- [x] reagen
+- [x] biaya pendaftaran
+- [x] data pengeluaran
